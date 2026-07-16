@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Kelvin-AirTMLA/Kelvin-AirTMLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kelvin. Pronouns: He/Him.
 
-Here are some ideas to get you started:
+### 🔭 Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A private full-stack app — diving into zero-knowledge proofs, system design, and building with clear tradeoffs and efficiency in mind.
+
+### 🌱 Currently learning
+
+Algorithms & data structures, and full-stack development.
+
+### 👯 Looking to collaborate on
+
+Open-source projects.
+
+Repositories focused on AI Agentic Systems, Full-Stack Developemt and Machine Learning
+
+### 📫 How to reach me
+
+- GitHub: [@Kelvin-AirTMLA](https://github.com/Kelvin-AirTMLA)
+- Email: [kelvinairerayanmen@gmail.com](mailto:kelvinairerayanmen@gmail.com)
+
