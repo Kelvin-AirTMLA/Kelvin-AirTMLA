@@ -8,13 +8,13 @@ A private full-stack app — diving into zero-knowledge proofs, system design, a
 
 ### 🌱 Currently learning
 
-Algorithms & data structures, and full-stack development.
+Algorithms & data structures, and full-stack AI development.
 
 ### 👯 Looking to collaborate on
 
 Open-source projects.
 
-Repositories focused on AI Agentic Systems, Full-Stack Developemt and Machine Learning
+Repositories focused on AI Agentic Systems, Full-Stack AI Developemt and Machine Learning
 
 ### 📫 How to reach me
 
