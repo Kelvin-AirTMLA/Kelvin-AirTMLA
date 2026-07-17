@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Kelvin. Pronouns: He/Him.
+I'm Kelvin-Air. Pronouns: He/Him.
 
 ### 🔭 Currently working on
 
