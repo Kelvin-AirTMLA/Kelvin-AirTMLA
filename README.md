@@ -20,5 +20,5 @@ Repositories focused on AI Agentic Systems, Full-Stack AI Developemt and Machine
 
 - GitHub: [@Kelvin-AirTMLA](https://github.com/Kelvin-AirTMLA)
 - Email: [kelvinairerayanmen@gmail.com](mailto:kelvinairerayanmen@gmail.com)
-- Subscribe to my YT Channel if you like my content: [🌀 The Man Like Air 🌀](https://youtube.com/@TMLA2024)
+- YT Channel: [🌀 The Man Like Air 🌀](https://youtube.com/@TMLA2024)
 
