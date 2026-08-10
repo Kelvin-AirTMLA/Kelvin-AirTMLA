@@ -15,7 +15,20 @@ Algorithms & data structures, and full-stack AI development.
 Open-source projects.
 
 Repositories focused on AI Agentic Systems, Full-Stack AI Developemt and Machine Learning
+---
+## 🚀 [FicCrunch](https://ficcrunch.com)
+**FicCrunch** is a web-based companion tool designed to help newcomers confidently navigate and contribute to open-source projects without getting overwhelmed. 
 
+### 🗺️ What it does:
+* **Difficulty Grading:** Automatically rates GitHub PRs and issues as Easy, Medium, or Hard.
+* **Visual Issue Graphs:** Turns nested, complex issue dependencies into an easy-to-read roadmap.
+* **Reading Order Queue:** Tells you exactly what to read first so you don't get lost in 20 browser tabs.
+* **Status Tracking:** Alerts you immediately if a PR or issue is already closed to prevent wasted effort.
+* **Optional AI Summarization:** Toggleable natural language summaries for fast codebase context.
+
+👉 **[Try FicCrunch for free here!](https://ficcrunch.com)**
+
+---
 ### 📫 How to reach me
 
 - GitHub: [@Kelvin-AirTMLA](https://github.com/Kelvin-AirTMLA)
