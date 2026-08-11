@@ -14,7 +14,7 @@ Algorithms & data structures, and full-stack AI development.
 
 Open-source projects.
 
-Repositories focused on AI Agentic Systems, Full-Stack AI Developemt and Machine Learning
+Repositories focused on AI Agentic Systems, Full-Stack AI Development and Machine Learning
 ---
 ## 🚀 [FicCrunch](https://ficcrunch.com)
 **FicCrunch** is a web-based companion tool designed to help newcomers and experienced programmers confidently navigate and contribute to open-source projects without getting overwhelmed. 
