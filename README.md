@@ -28,6 +28,9 @@ Repositories focused on AI Agentic Systems, Full-Stack AI Development and Machin
 
 👉 **[Try FicCrunch for free here!](https://ficcrunch.com)**
 
+- Discord Channel: [FicCrunch Community](https://discord.gg/VJmTYuMjP)
+- GitHub Discussions: [Discussions](https://github.com/Kelvin-AirTMLA/ficcrunch-feedback/discussions)
+
 ---
 ### 📫 How to reach me
 
@@ -35,4 +38,5 @@ Repositories focused on AI Agentic Systems, Full-Stack AI Development and Machin
 - Email: [kelvinairerayanmen@gmail.com](mailto:kelvinairerayanmen@gmail.com)
 - YT Channel: [🌀 The Man Like Air 🌀](https://youtube.com/@TMLA2024)
 - DEV Community: [Kelvin-Air](https://dev.to/kelvin_air_tmla)
+- 
 
