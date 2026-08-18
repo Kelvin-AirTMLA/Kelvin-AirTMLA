@@ -38,5 +38,4 @@ Repositories focused on AI Agentic Systems, Full-Stack AI Development and Machin
 - Email: [kelvinairerayanmen@gmail.com](mailto:kelvinairerayanmen@gmail.com)
 - YT Channel: [🌀 The Man Like Air 🌀](https://youtube.com/@TMLA2024)
 - DEV Community: [Kelvin-Air](https://dev.to/kelvin_air_tmla)
-- 
-
+- X: [@ficcrunchteam](https://x.com/ficcrunchteam)
