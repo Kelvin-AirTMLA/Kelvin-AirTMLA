@@ -33,7 +33,7 @@ Apps focused on AI Agentic Systems, Full-Stack AI Development and Machine Learni
 
 ---
 
-## [Tablet](https://mytablet.app)
+## 🌀 [Tablet](https://mytablet.app) (Beta Version)
 **Tablet** is a web study app built to push students hard in the last stretch before exams — cut noise, force retrieval, and make the ideas stick.
 
 ## What it does:
@@ -44,6 +44,9 @@ Apps focused on AI Agentic Systems, Full-Stack AI Development and Machine Learni
 * Grades teach-back with an **orb** (`pass` / `shallow` / `confident_wrong`) so weak or overconfident answers get challenged
 * Schedules revisits toward your **exam date** (or +2 days if unset)
 * Tracks retention so prep is about **recall**, not watch time
+
+👉 **[Try Tablet for free here!](https://mytablet.app)**
+- Discord Channel: [Tablet Community](https://discord.gg/W2YEHGBCJ)
 
 ---
 ### 📫 How to reach me
