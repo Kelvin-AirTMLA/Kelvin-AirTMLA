@@ -14,7 +14,7 @@ Algorithms & data structures, and full-stack AI development.
 
 Open-source projects.
 
-Repositories focused on AI Agentic Systems, Full-Stack AI Development and Machine Learning
+Apps focused on AI Agentic Systems, Full-Stack AI Development and Machine Learning
 ---
 ## 🚀 [FicCrunch](https://ficcrunch.com)
 **FicCrunch** is a web-based companion tool designed to assist newbies and experienced programmers confidently navigate and contribute to open-source projects without getting overwhelmed or confused.
@@ -30,6 +30,20 @@ Repositories focused on AI Agentic Systems, Full-Stack AI Development and Machin
 
 - Discord Channel: [FicCrunch Community](https://discord.gg/VJmTYuMjP)
 - GitHub Discussions: [Discussions](https://github.com/Kelvin-AirTMLA/ficcrunch-feedback/discussions)
+
+---
+
+## [Tablet](https://mytablet.app)
+**Tablet** is a web study app built to push students hard in the last stretch before exams — cut noise, force retrieval, and make the ideas stick.
+
+## What it does:
+* Distills lectures, notes, PDFs, and links down to **essentials only** (no filler)
+* Turns each idea into a **Shorts / TikTok / Reels–style** animated study clip
+* Unlocks **Drill, checks, and teach-back** as soon as distill finishes — practice doesn’t wait on video render
+* Runs a **binge gate**: you can’t skip to the next Short until you clear a check or say it back
+* Grades teach-back with an **orb** (`pass` / `shallow` / `confident_wrong`) so weak or overconfident answers get challenged
+* Schedules revisits toward your **exam date** (or +2 days if unset)
+* Tracks retention so prep is about **recall**, not watch time
 
 ---
 ### 📫 How to reach me
