@@ -52,7 +52,6 @@ Apps focused on AI Agentic Systems, Full-Stack AI Development and Machine Learni
 ### 📫 How to reach me
 
 - GitHub: [@Kelvin-AirTMLA](https://github.com/Kelvin-AirTMLA)
-- Email: [kelvinairerayanmen@gmail.com](mailto:kelvinairerayanmen@gmail.com)
 - YT Channel: [🌀 The Man Like Air 🌀](https://youtube.com/@TMLA2024)
 - DEV Community: [Kelvin-Air](https://dev.to/kelvin_air_tmla)
 - X: [@ficcrunchteam](https://x.com/ficcrunchteam)
